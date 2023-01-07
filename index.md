@@ -6,6 +6,17 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vYDXryfmjQk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 ```
 
+##### YouTubeビデオの埋込みコード
+
+```HTML
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQnWicBMkbY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+```
+
+
+##### 埋め込んだYouTube動画
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eQnWicBMkbY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## 何ができるの?
 
 カメラの前で、手を前に出したり、手を上げたりすると、骨格からポーズを検出して、それに合わせてビームや魔法陣などのエフェクトをリアルタイムにスクリーンに映し出し、あなたをキャラクターの世界へといざないます。
