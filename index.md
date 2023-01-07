@@ -2,7 +2,9 @@
 
 幻想郷システムは、コスプレと、その撮影を、より楽しむ為に作られた、体験展示作品です。
 
-{% include youtube.html id="vYDXryfmjQk" %}
+[![幻想郷システム]
+(https://img.youtube.com/vi/vYDXryfmjQk/default.jpg)]
+(https://www.youtube.com/watch?v=vYDXryfmjQk)
 
 ## 何ができるの?
 
