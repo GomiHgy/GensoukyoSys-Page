@@ -26,3 +26,10 @@
 ## プロモーションビデオ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vYDXryfmjQk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
+## 紹介記事
+
+[より多くの人に楽しんでもらうために　体験展示型コスプレ「幻想郷システム」- おたくま経済新聞](https://otakei.otakuma.net/archives/2022112802.html)
+[“Gensōkyō System” adds special effects to cosplay shoots via projection mapping & AI - GrapeJapan](https://grapee.jp/en/215015)
+[コスプレイヤーの動きに合わせて必殺技エフェクトが発動するシステム作ってみた！ AIが動作を検知しリアルタイムに映像投影 - ニコニコ動画ニュース](https://originalnews.nico/399303)
+[手から技が放てる！コスプレ×プロジェクションマッピング×AI「幻想郷システム 」で新時代のコスプレ撮影 - コスプレイモードオンライン](https://www.cosplaymode.online/blog/photo/ai/)
