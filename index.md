@@ -1,6 +1,6 @@
 # 幻想郷システム
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wuiauR0mvHU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vYDXryfmjQk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## コスプレとその撮影をもっと楽しめるようにデザインされた体験展示
 
@@ -22,7 +22,7 @@
 
 ## プロモーションビデオ
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vYDXryfmjQk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wuiauR0mvHU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 ## 紹介記事一覧
 
